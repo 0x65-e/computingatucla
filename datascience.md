@@ -3,7 +3,7 @@ layout: default
 permalink: /guides/fields/datascience
 ---
 
-# Studying Data Science (and Machine Learning) at UCLA
+# Guide to Data Science (and Machine Learning) at UCLA
 
 Data Science is one of the fastest growing fields in tech, and many students at UCLA are interested in entering the field after graduation. In this guide, I will attempt to provide a roadmap to the best majors, minors, and courses to pursue data science at UCLA. This is still a work in progress, so please hang with me as I update it.
 

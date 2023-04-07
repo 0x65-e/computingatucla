@@ -3,7 +3,7 @@ layout: default
 permalink: /guides/fields/software
 ---
 
-# Studying Software Engineering and Computer Science at UCLA
+# Guide to Software Engineering and Computer Science at UCLA
 
 ## Computer Science ≠ Software Engineering
 
