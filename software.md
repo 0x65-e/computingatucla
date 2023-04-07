@@ -5,6 +5,10 @@ permalink: /guides/fields/software
 
 # Guide to Software Engineering and Computer Science at UCLA
 
+This guide is still a work in progress, so please bear with me as I update it.
+
+##### Table of Contents
+
 * Table of Contents
 {:toc}
 
