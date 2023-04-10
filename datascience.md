@@ -7,6 +7,8 @@ permalink: /guides/fields/datascience
 
 Data Science is one of the fastest growing fields in tech, and many students at UCLA are interested in entering the field after graduation. In this guide, I will attempt to provide a roadmap to the best majors, minors, and courses to pursue data science at UCLA. This is still a work in progress, so please bear with me as I update it.
 
+This guide is meant to be comprehensive and used as a reference, so please use the Table of Contents below to navigate to the most relevant section.
+
 ##### Table of Contents
 
 * Table of Contents
@@ -75,7 +77,7 @@ The upper division courses cover most areas of computer science, including opera
 
 The Computer Science department offers a range of three majors: Computer Science, Computer Science and Engineering, and Computer Engineering. CS&E and CE trade some of the core CS courses and electives for additional courses in Electrical Engineering. If you want to study data science, Computer Science is the best option of the three.
 
-Computer Science is housed in the School of Engineering, so the process to [change your major](https://www.seasoasa.ucla.edu/change-of-major/) is more difficult and requires at least a full year and a 3.5 GPA in the preparatory math, physics, and computer science courses taken. One benefit of being housed in the School of Engineering is that Computer Science majors have half the GEs of L&S students, and no foreign language requirement, leaving more room to take technical classes. As engineers, Computer science majors have a [Technical Breadth Area](https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/) that requires students to take courses outside their major department. This can include courses in other engineering departments, mathematics, or the most popular options, digital humanities or technology management. This is an opportunity for CS majors to build some business knowledge that may be useful for data scientists.
+Computer Science is housed in the School of Engineering, so the process to [change your major](https://www.seasoasa.ucla.edu/change-of-major/) is more difficult and requires at least a full year and a 3.5 GPA in the preparatory math, physics, and computer science courses taken. One benefit of being housed in the School of Engineering is that Computer Science majors have half the GEs of L&S students, and no foreign language requirement, leaving more room to take technical classes. As engineers, Computer Science majors have a [Technical Breadth Area](https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/) that requires students to take courses outside their major department. This can include courses in other engineering departments, mathematics, or the most popular options, digital humanities or technology management. This is an opportunity for CS majors to build some business knowledge that may be useful for data scientists.
 
 In addition, the [Sci-Tech Electives](https://www.seasoasa.ucla.edu/cs-scitech/) of the CS major allow you to take courses from a number of departments across campus. This includes Statistics and Mathematics (for a quantitative approach), as well as Economics and Management (for more business courses).
 
@@ -83,14 +85,54 @@ Unsurprisingly, the Computer Science major is the best preparation for **Softwar
 
 ### Others
 
-Other possible options include Electrical Engineering, Applied Math, Mathematics/Economics, and Linguistics + Computer Science, which all have a mix of statistics, mathematics, and computer science courses. They're generally lacking at least one element that the majors above cover, but it's definitely still possible to pursue data science with one of these majors and some determination.
+Other possible options include Electrical Engineering, Cognitive Science, Computational and Systems Biology, Applied Math, Mathematics/Economics, and Linguistics + Computer Science, which all have a mix of statistics, mathematics, and computer science courses. They're generally lacking at least one element that the majors above cover, but it's definitely still possible to pursue data science with one of these majors and some determination. One of the best routes is by adding a minor from the following section.
 
 ## Minors
 
-Coming soon!
+UCLA has a very broad selection of minors relevant to students pursuing data science, spread across five departments and two schools. Most of these minors can be paired with any major (including those above) to add extra qualitative skills or to cover a missing foundation. The range of available courses gives you incredible flexibility to pursue data science from an approach that interests you.
+
+### [Data Science Engineering Minor](https://catalog.registrar.ucla.edu/minor/2022/DataScienceEngineeringMinor)
+
+The DSE minor is the Computer Science department's approach to a data science minor. It requires linear algebra (MATH 33A) and data structures (CS 32), which itself requires introductory C++ (CS 31). The upper division required courses include a probability course (STATS 100A or equivalent), and the CS versions of data science (CS M148) and machine learning (CS M146). There are two electives that you can use to shape the minor in a particular direction, from hardcore deep learning (with EC ENGR C147 and CS 162) and data analysis (with STATS 100B, 170, or C180) to signal processing (with EC ENGR 102, 113, and 114) and software engineering (with CS 180 and 143).
+
+The DSE minor is the most technical, and the most difficult, minor on this list, but it can add valuable computational skills to your resume that will help for any of the four roles. **Data Scientists** and **Software Engineers** alike (who aren't Computer Science majors) can get a lot of mileage out of taking algorithms (CS 180) and databases (CS 143), while **Machine Learning Engineers** and **Machine Learning Scientists** will absolutely want to take deep learning (EC ENGR C147) and natural language processing (CS 162).
+
+### [Statistics and Data Science Minor](https://catalog.registrar.ucla.edu/minor/2022/StatisticsMinor)
+
+Unsurprisingly, most of what was said above for the statistics major equally applies for the minor. The lower division prerequisites include linear algebra (MATH 33A), R programming (STATS 20), and intro statistics or data science (STATS 10 or STATS 15). You have two options for the upper division requirements - (1) take the full 100 series and either the 101 or 102 series, or (2) take the first two classes in all three series. Which option you choose can depend on which classes you find interesting, and which bases aren't covered by your major.
+
+Like the Statistics major, the minor is the best fit for the **Data Scientist** role, and pairs well with a major that lacks some of the applied regression and computational classes.
+
+### [Social Data Science Minor](https://catalog.registrar.ucla.edu/minor/2022/SocialDataScienceMinor)
+
+Restricted to majors in the Social Sciences division (anthropology, economics, history, sociology, etc.), the Social Data Science minor is geared towards social science students who want to build a background in data science and analysis skills to apply within their domains. The lower division requirements are similar to the Stats minor (but with additional options for introductory statistics courses), and the upper division requirement includes the Stats 101 series, a course on data ethics (STATS 184), and two electives that apply data science across a broad range of social science departments. The SDS minor is one of the broadest in scope due to the wide array of electives available. The Geography department offers courses in Geographic Information Systems (GIS); the Economics department teaches econometrics and forecasting; the sociology and communications departments offer classes in the social impacts of new technologies.
+
+The SDS minor is mostly intended for social sciences students taking data science—related courses in their own departments, and as such is really a fit for **Data Scientist**—type roles, especially those related to research in the social sciences. The skills can also be useful for students looking to enter industry in data science or data analysis roles with social science majors, though it is not quite as rigorous as a Stats or Data Science Engineering minor.
+
+### [Digital Humanities](https://catalog.registrar.ucla.edu/minor/2022/DigitalHumanitiesMinor)
+
+In a similar vein to the SDS minor, Digital Humanities focuses on applying digital tools to research questions within the humanities subjects (classics, literature, philosophy, languages and cultures, etc.). The requirements include an expansive list of electives across the humanities departments. Like the SDS minor, it is most suited for **Data Scientist**—type roles in humanities research, but can also potentially be a fun path for more technical majors to study an area of interest within the humanities.
+
+### [Bioinformatics Minor](https://catalog.registrar.ucla.edu/minor/2022/BioinformaticsMinor)
+
+The other minor offered by the Computer Science department, Bioinformatics is the application of statistical and computational methods to biological (especially genomic) data. Predictably, the lower division requirements include introductory biology (LIFESCI 7A) in addition to data structures (CS 32), linear algebra (MATH 33A), and somewhat uniquely among the minors listed here, discrete structures (MATH 61). The upper division requirements include an algorithms course (CS 180), a course in computational biology (CS M184), two bioinformatics courses (CS CM121, CM122, or CM124), and one elective, which can be a range of bioinformatics-related courses in the Computer Science, Chemistry, Statistics, or various Biology departments.
+
+The courses in the Bioinformatics minor are very definitely geared towards a **Data Scientist** role specifically in biological fields. The minor can be a good supplement for graduate study in Biostatistics or similar programs.
+
+A big caveat to the minor is that the Computer Science department has struggled to offer the required courses [in the past](https://hotseat.io/courses/375532/instructors/39390121), with many being offered in only a [single quarter](https://hotseat.io/courses/2969/instructors/1101805) or [not at all](https://hotseat.io/courses/4412/instructors/414). Most of the same bioinformatics courses in the CS department can be taken through the Data Science Engineering minor, and though the minor lacks an explicit biological domain focus, it may be the better practical choice.
+
+### [Mathematics Minor](https://catalog.registrar.ucla.edu/minor/2022/MathematicsMinor)
+
+Quite straightforwardly, the Mathematics minor is exactly what you expect from the name. It requires lower division math courses up through multivariable calculus (MATH 32A), linear algebra (MATH 33A), and differential equations (MATH 33B), and six upper division electives in the Mathematics department. Some of the most useful courses are discussed above in the sections on the Data Theory and Mathematics of Computation majors.
+
+A Math minor can be directly useful for building relevant industry skills in machine learning and optimization, mostly for **Machine Learning Engineers** and **Data Scientists**. It's an especially good choice for Computer Science or Statistics majors looking to pursue graduate study for **Machine Learning Scientist** roles, where advanced mathematics is a huge benefit.
+
+## Domain Knowledge
+
+Coming Soon!
 
 ## Recommendations
 
-If you're absolutely decided on going directly into industry, my recommendation is a major in Statistics or Data Theory, with the option of a Data Science Engineering minor to add additional computational depth. If you were admitted to Computer Science, then a CS + Stats double major is similar (or CS + a Stats minor). 
+If you're absolutely decided on going directly into industry, my recommendation is a major in Statistics or Data Theory, with the option of a Data Science Engineering minor to add additional computational depth. If you were admitted to Computer Science, then a CS + Stats double major is similar (or CS + a Stats minor, but the difference between the major and minor is only a few additional classes). 
 
-If you want to pursue graduate school, especially in machine learning, then you want as much mathematical foundation as possible, especially proof-based math. Data Theory or Mathematics of Computation are your best shot, followed by Computer Science. For graduate study in data science and statistics, the Statistics major is a good option.
+If you want to pursue graduate school, especially in machine learning, then you want as much mathematical foundation as possible, especially proof-based math. Data Theory or Mathematics of Computation are your best shot, followed by Computer Science. For graduate study in data science and statistics, the Statistics major is a good option. Both Computer Science and Statistics can benefit from a minor in Mathematics for additional mathematical foundations.
