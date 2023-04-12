@@ -7,6 +7,8 @@ permalink: /guides/fields/software
 
 This guide is still a work in progress, so please bear with me as I update it.
 
+This guide is meant to be comprehensive and used as a reference, so please use the Table of Contents below to navigate to the most relevant section.
+
 ##### Table of Contents
 
 * Table of Contents
@@ -43,7 +45,7 @@ The Computer Science major provides a very broad education in theoretical comput
 
 The upper division courses cover most areas of computer science, including operating systems (CS 111), networking (CS 118), software engineering (CS 130), programming languages (CS 131), architecture (CS M151B), algorithms (CS 180), and theory of computing (CS 181). The major provides five free [electives](https://registrar.ucla.edu/academics/course-descriptions?search=COM+SCI), which cover a range of topics (though largely focused on machine learning).
 
-One benefit of being housed in the School of Engineering is that Computer Science majors have half the GEs of L&S students, and no foreign language requirement, leaving more room to take technical classes. As engineers, Computer science majors have a [Technical Breadth Area](https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/) that requires students to take courses outside their major department. This can include courses in other engineering departments, mathematics, or the most popular options, digital humanities or technology management. If you want to absolutely maximize your technical courses, it's possible to take cross-listed courses from the Electrical and Computer Engineering department like Machine Learning (CS/EC ENGR M146) and Data Science (CS/EC ENGR M148), or take computing courses offered solely by the ECE department.
+One benefit of being housed in the School of Engineering is that Computer Science majors have half the GEs of L&S students, and no foreign language requirement, leaving more room to take technical classes. As engineers, Computer science majors have a [Technical Breadth Area](https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/) that requires students to take courses outside their major department. This can include courses in other engineering departments, mathematics, or the most popular options, digital humanities or technology management. If you want to absolutely maximize your technical courses, it's possible to take cross-listed courses from the Electrical and Computer Engineering department like Machine Learning (CS/EC ENGR M146) and Data Science (CS/EC ENGR M148), or take computing courses offered solely by the ECE department, like Deep Learning (EC ENGR C147) and Numerical Computing (EC ENGR 133A and 133B).
 
 In addition, the [Sci-Tech Electives](https://www.seasoasa.ucla.edu/cs-scitech/) of the CS major (but not CS&E or CE) allow you to take courses from a number of departments across campus. While you can technically fulfill this requirement with additional CS electives, I don't recommend this path. At present, there aren't enough elective offerings to take eight computer science electives. You can take Electrical Engineering courses, but also courses in Statistics and Mathematics (which is especially good for graduate school preparation), as well as Economics and Management (for those interested in studying business as well).
 
@@ -68,27 +70,35 @@ As the registrar's description states:
 
 Ling + CS is about equally linguistics and computer science courses (none of them in hardware). The lower division prerequisites include all of the introductory computer science courses (except CS M51A), and basic calculus (MATH 31A/31B), discrete math (MATH 61), and probability (MATH 70). The upper divsion courses are mostly in linguistics, with four required CS courses: Programming Languages (CS 131), Algorithms (CS 180), Theory of Computing (CS 181), and either Compilers (CS 132) or Artificial Intelligence (CS 161).
 
-While Ling + CS includes all the essential courses I outlined above, the restriction on upper division CS courses makes it difficult for Ling + CS majors to specialize in systems, hardware, machine learning, etc. Depending on your viewpoint, that might be a benefit—if you're not interested in hardware, the closest you will ever get is assembly in CS 33. Despite this, Ling + CS is still popular, as it requries the least preparation in math and physics but is still enough to pass most software engineering interviews for frontend or backend development.
+While Ling + CS includes all the essential courses I outlined above, the restriction on upper division CS courses makes it difficult for Ling + CS majors to specialize in systems, hardware, machine learning, etc. Depending on your viewpoint, that might be a benefit—if you're not interested in hardware, the closest you will ever get is assembly in CS 33. Despite this, Ling + CS is still popular, as it requries the least preparation in math and physics but is still enough to pass most general software engineering interviews at tech companies.
 
 ### [Electrical Engineering B.S.](https://catalog.registrar.ucla.edu/major/2022/ElectricalEngineeringBS)
 
 Electrical Engineering is a relatively popular choice for engineering students pursuing careers in computing fields. It includes most of the computer science lower division courses, with the exception of CS 35L, and all the same math and physics preparation. The upper division required courses are all in Electrical Engineering, but the major has three electives (one of which may be in Computer Science or another engineering department).
 
-As mentioned above, it is possible to take cross-listed courses for the electrical engineering electives, or CS-adjacent courses like Deep Learning (EC ENGR C147) and Neural Signal Processing (EC ENGR C143A). Electrical Engineering majors (and Computer Engineering majors, since the major is offered jointly between the CS and ECE departments) can choose to take Computer Science courses for their Technical Breadth Area, which provides more flexibility to specialize.
+As mentioned above, it is possible to take cross-listed courses for the electrical engineering electives, or CS-adjacent courses like Deep Learning (EC ENGR C147) and Neural Signal Processing (EC ENGR C143A). Electrical Engineering majors (and Computer Engineering majors, since the major is offered jointly between the CS and ECE departments) can choose to take Computer Science courses for their Technical Breadth Area, which provides more flexibility to specialize in topics like Operating Systems, Algorithms, and Databases.
 
 With the right TBA and elective selections, Electrical Engineering offers the opportunity to take about as many CS courses as either Math of Comp or Ling + CS. The remaining coursework is in a field related to computing, and the major comes with all the tradeoffs of being in the engineering school, including fewer GEs but more math and physics preparation required.
 
 ## Minors
 
-Coming soon!
+Unlike many similar institutions, UCLA does not offer minors in most engineering subjects, including Computer Science. There are a limited selection of minors that may help prepare you for software engineering, two of which are offered by the Computer Science department.
 
-### Data Science Engineering
+### [Data Science Engineering Minor](https://catalog.registrar.ucla.edu/minor/2022/DataScienceEngineeringMinor)
 
-Coming soon!
+The Data Science Engineering minor is the closest thing that UCLA offers to a Computer Science or Electrical Engineering minor. It requires linear algebra (MATH 33A) and data structures (CS 32), which itself requires introductory C++ (CS 31). The upper division required courses include a probability course (STATS 100A or equivalent), and the CS versions of data science (CS M148) and machine learning (CS M146). There are two electives that you can use to shape the minor in a particular direction, from hardcore deep learning (with EC ENGR C147 and CS 162) and data analysis (with STATS 100B, 170, or C180) to signal processing (with EC ENGR 102, 113, and 114) and software engineering (with CS 180 and 143).
 
-### Bioinformatics
+For students not majoring in Computer Science, the DSE minor can provide all the necessary courses and one of the recommended courses that I listed as preparation for software engineering above, while providing something computing-related to list on your resume. The minor does one major shortcoming: the list of Computer Science electives is heavily restricted to machine learning and data science, with no option to take courses in hardware, architecture, security, or theory. However, for Math of Comp and Ling + CS majors, the DSE minor can still be a good route to take additional CS electives beyond the number required by their major.
 
-Coming soon!
+### [Bioinformatics Minor](https://catalog.registrar.ucla.edu/minor/2022/BioinformaticsMinor)
+
+More specialized than the DSE minor, Bioinformatics is the application of statistical and computational methods to biological (especially genomic) data. Predictably, the lower division requirements include introductory biology (LIFESCI 7A) in addition to data structures (CS 32), linear algebra (MATH 33A), and somewhat uniquely among the minors listed here, discrete structures (MATH 61). The upper division requirements include an algorithms course (CS 180), a course in computational biology (CS M184), two bioinformatics courses (CS CM121, CM122, or CM124), and one elective, which can be a range of bioinformatics-related courses in the Computer Science, Chemistry, Statistics, or various Biology departments.
+
+Like the Data Science Engineering minor, Bioinformatics covers the two most important prep classes, but the rest of the courses are highly specialized. A big caveat to the minor is that the Computer Science department has struggled to offer the required courses [in the past](https://hotseat.io/courses/375532/instructors/39390121), with many being offered in only a [single quarter](https://hotseat.io/courses/2969/instructors/1101805) or [not at all](https://hotseat.io/courses/4412/instructors/414). Most of the same bioinformatics courses in the CS department can be taken through the Data Science Engineering minor, so unless you have an interest in biology, DSE is the better practical choice.
+
+### [Mathematics Minor](https://catalog.registrar.ucla.edu/minor/2022/MathematicsMinor)
+
+Although it is the least directly relevant minor on this list, the Mathematics minor consists of five free upper division electives. The Math department has many courses that are computing-adjacent, including algorithms (MATH 182), machine learning (MATH 156), graph theory (MATH 180), networks (MATH 168), optimization (MATH 164), applied numerical methods (MATH 151A and 151B), and cryptography (MATH 116). While most of these courses don't include any engineering component, the mathematical foundations are still useful, especially for students looking to pursue graduate study in Computer Science later.
 
 ## Recommendations
 
