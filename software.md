@@ -80,6 +80,12 @@ As mentioned above, it is possible to take cross-listed courses for the electric
 
 With the right TBA and elective selections, Electrical Engineering offers the opportunity to take about as many CS courses as either Math of Comp or Ling + CS. The remaining coursework is in a field related to computing, and the major comes with all the tradeoffs of being in the engineering school, including fewer GEs but more math and physics preparation required.
 
+### [Cognitive Science B.S.](https://catalog.registrar.ucla.edu/major/2022/CognitiveScienceBS)
+
+Cognitive Science (or "the *other* CS") is a mixture of psychology and computer science, and is another route into software engineering from the College of Letters & Sciences. Besides software engineering, Cognitive Science is also a good major for students looking to work in other roles in tech, like UI/UX Designers, where the psychology background can really be a benefit over other technical majors. The lower division covers some basic sciences and psychology, single-variable calculus, as well as the introductory programming courses (CS 31-32 recommended).
+
+CogSci majors have a core of three upper division psychology courses, two fieldwork/research courses, and four electives to choose from a wide array. The elective offers include courses from communications, linguistics, math, neuroscience, psychology, statistics, and most relevantly, computer science. Much like Math of Comp majors, CogSci majors have the flexibility to specialize in an area of computer science.
+
 ## Minors
 
 Unlike many similar institutions, UCLA does not offer minors in most engineering subjects, including Computer Science. There are a limited selection of minors that may help prepare you for software engineering, two of which are offered by the Computer Science department.

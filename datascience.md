@@ -67,7 +67,7 @@ The major provides a lot of flexibility with course selection, especially with r
 
 One area where the Math of Comp major lacks is in statistical preparation. While you can take Stats classes for your math electives, Stats and Data Theory majors have enrollment priority so it can be harder to get into the Statistics core series. The Math department offers its own series on statistics and probability (MATH 170A and 170B), which you will probably take as a prerequisite to courses in machine learning and data science.
 
-Compared to the previous majors, Math of Comp provides much more background in computer science. With appropriate elective selections, including operating systems (CS 111), algorithms (CS 180 or MATH 182), and machine learning (CS M146 or MATH 156), Math of Comp sets you up for **Software Engineering** and **Machine Learning Engineering** roles, or for graduate study in computer science and machine learning. It's also possible to go directly into **Data Scientist** roles, based on your choice of electives, since you can shape the major to be very similar to Data Theory.
+Compared to the previous majors, Math of Comp provides much more background in computer science. With appropriate elective selections, including operating systems (CS 111), algorithms (CS 180 or MATH 182), and machine learning (CS M146 or MATH 156), Math of Comp sets you up for **Software Engineering** and **Machine Learning Engineering** roles, or for graduate study in computer science and machine learning. It's also possible to go directly into **Data Scientist** roles, based on your choice of electives, since you can shape the major to be very similar to Data Theory. Like Data Theory, the mathematical preparation is helpful for those pursuing graduate study for a **Machine Learning Scientist** position.
 
 ### [Computer Science B.S.](https://catalog.registrar.ucla.edu/major/2022/ComputerScienceBS)
 
@@ -83,9 +83,17 @@ In addition, the [Sci-Tech Electives](https://www.seasoasa.ucla.edu/cs-scitech/)
 
 Unsurprisingly, the Computer Science major is the best preparation for **Software Engineer** positions, and with the right selection of electives, is a great major for **Machine Learning Engineering** as well. The lack of courses in statistics and mathematics may be a slight disadvantage for **Data Scientist** roles, but these are still well within reach (especially with a Sci-Tech in statistics or one of the minors below).
 
+### [Cognitive Science B.S.](https://catalog.registrar.ucla.edu/major/2022/CognitiveScienceBS)
+
+Cognitive Science (or "the *other* CS") is a mixture of psychology and computer science, and is another possible route into data science from the College of Letters & Sciences. The psychology background of the Cognitive Science major can be helpful for designing and running experiments in data science. The lower division covers some basic sciences and psychology, single-variable calculus, as well as the introductory programming courses.
+
+CogSci majors have a core of three upper division psychology courses, two fieldwork/research courses, and four electives to choose from a wide array. The elective offers include courses from communications, linguistics, math, neuroscience, psychology, statistics, and computer science. Much like Math of Comp majors, CogSci majors have the flexibility to specialize with their electives, though they face the same problems with difficulty enrolling in core stats, math, and CS courses required for those majors.
+
+The fit for Cognitive Science majors is similar to Math of Comp, though with less preparation for graduate study in machine learning and computer science. With appropriate CS elective selections, including operating systems (CS 111), algorithms (CS 180 or MATH 182), and machine learning (CS M146 or MATH 156), CogSci majors can go into **Software Engineering** and **Machine Learning Engineering** roles, or focus on statistics courses for **Data Scientist** roles.
+
 ### Others
 
-Other possible options include Electrical Engineering, Cognitive Science, Computational and Systems Biology, Applied Math, Mathematics/Economics, and Linguistics + Computer Science, which all have a mix of statistics, mathematics, and computer science courses. They're generally lacking at least one element that the majors above cover, but it's definitely still possible to pursue data science with one of these majors and some determination. One of the best routes is by adding a minor from the following section.
+Other possible options include Electrical Engineering, Computational and Systems Biology, Applied Math, Mathematics/Economics, and Linguistics + Computer Science, which all have a mix of statistics, mathematics, and computer science courses. They're generally lacking at least one element that the majors above cover, but it's definitely still possible to pursue data science with one of these majors and some determination. One of the best routes is by adding a minor from the following section.
 
 ## Minors
 
