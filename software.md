@@ -108,4 +108,17 @@ Although it is the least directly relevant minor on this list, the Mathematics m
 
 ## Recommendations
 
-Coming soon!
+**Bottom Line Up Front:** Major in CS for the most flexibility to specialize. If you were admitted to L&S, pick the major with the most interesting other half (math, linguistics, or psychology), since the career outcomes are about the same.
+
+**Full Recommendations:** As mentioned above, any of the majors detailed will be sufficient preparation for most software engineering jobs. Far more important is internship experience, personal projects and clubs, and interview skills.
+
+For specific commentary on each major:
+* If you want to specialize in some specific area of software development, then there's no beating the pure CS major in breadth of options or flexibility. However, more CS courses is not always better, as it comes with more rigor and fewer opportunities to explore outside of Computer Science.
+* For math-heavy roles like machine learning, the mathematical preparation of Math of Comp excels (check out the guide on [Data Science](/guides/fields/datascience) for more).
+* If you want to specialize in Natural Language Processing (NLP), Linguistics + Computer Science is uniquely positioned, although roles in NLP directly out of undergrad are very rare. For a very specialized graduate program, Ling + CS is the perfect major, but otherwise it loses out in flexibility of electives. If you can't stomach a major with "Mathematics" in the title, it is the easiest route.
+* If you're more interested in the hardware side, embedded programming, and low-level systems, then choose Electrical Engineering or Computer Engineering (or maybe CSE for just a light dose).
+* Cognitive Science should be the first choice if you're looking to go into UI/UX, design, other technical roles that require skills outside of software engineering.
+
+### A Note On Graduate School
+
+While grad school isn't necessary for software engineers (and most undergrads go directly into software engineering), some students prefer to pursue graduate school to specialize in a specific field, to fill in gaps in their undergraduate major, or to forestall their inevitable dread over leaving the structured orbit of schooling and charting their own course through the heavens. Graduate school often comes in two flavors: a one— to one and a half—year "professional" Masters program, which only involves coursework and may be called by a variety of different names (M.S. in Computer Science, Masters of Engineering, Masters of Software Engineering), and a two—year program involving research that sometimes serves as a precursor to a PhD. Graduates of both programs (the ones that don't go on to a PhD) are usually viewed similarly in terms of career benefits in software engineering. Depending on the school and the designation, the professional degrees may include more team projects and courses on leadership or engineering process, while a research Masters will cover more theoretical computer science. A Masters isn't strictly necessary, but it can be useful if you feel like your undergraduate major wasn't as much preparation as you wanted. 
