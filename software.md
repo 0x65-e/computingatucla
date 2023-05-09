@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /guides/fields/software
+redirect_from:
+  - /guides/fields/software-engineering
 ---
 
 # Guide to Software Engineering and Computer Science at UCLA
