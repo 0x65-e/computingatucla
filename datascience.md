@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /guides/fields/datascience
+redirect_from:
+  - /guides/fields/data
 ---
 
 # Guide to Data Science (and Machine Learning) at UCLA
