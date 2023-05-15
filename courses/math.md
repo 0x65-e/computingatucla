@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /guides/departments/math
+permalink: /guides/courses/math
 redirect_from:
-  - /guides/departments/mathematics
+  - /guides/courses/mathematics
 ---
 
 # Guide to Computing Courses in the Math Department at UCLA
