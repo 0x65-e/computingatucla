@@ -58,7 +58,7 @@ The Data Theory major is probably the closest major to other universities' Data 
 
 ### [Mathematics of Computation B.S.](https://catalog.registrar.ucla.edu/major/2022/MathematicsofComputationBS)
 
-The Mathematics of Computation major is about a mix of about 60% math and 40% computer science. It's one of the most popular options for pursuing computer science in the College of L&S. The lower division prerequisites are nearly identical to the Computer Science major, with the full suite of math classes (calculus, linear algebra, and differential equations), including Discrete Math (MATH 61), as well as physics and the introductory computer science series (it's recommended to take CS 31, 32, and 33 instead of the Math department's C++ programming courses).
+The Mathematics of Computation major is a mix of about 60% math and 40% computer science. It's one of the most popular options for pursuing computer science in the College of L&S. The lower division prerequisites are nearly identical to the Computer Science major, with the full suite of math classes (calculus, linear algebra, and differential equations), including Discrete Math (MATH 61), as well as physics and the introductory computer science series (it's recommended to take CS 31, 32, and 33 instead of the Math department's C++ programming courses).
 
 The upper division courses are split between math and computer science:
 * Core math courses in linear algebra (MATH 115A), real analysis (MATH 131A and 131B), and applied numerical methods (MATH 151A and 151B)
