@@ -72,7 +72,7 @@ Additionally, software engineers may be employed in more specialized roles, whic
 
 Software engineers at quant finance firms usually do not require any different preparation than software engineers in other industries. Even roles that work on trading-critical components do not expect specialized financial knowledge or statistical preparation. For more information on software engineering in general, check out the [dedicated guide](/guides/fields/software).
 
-SWE compensation tends to be the least variable when compared to the quantitative roles, although it is more variable than software engineering compensation in other industries. Pay transparency in the tech industry leads to more standardized compensation for SWEs when compared to the quantitative roles. Quant firms tend to have higher compensation for SWEs than other industries (especially for new grads), though they often have higher hiring bars, performance standards, and longer working hours.
+SWE compensation tends to be less variable than the quantitative roles, although it is more variable than software engineering compensation in other industries. Pay transparency in the tech industry leads to more standardized compensation for SWEs when compared to the quantitative roles. Quant firms tend to have higher compensation for SWEs than other industries (especially for new grads), though they often have higher hiring bars, performance standards, and longer working hours.
 
 ### Site Reliability Engineer (SRE)
 
@@ -84,7 +84,13 @@ SRE compensation is very similar to SWE compensation, especially since the much 
 
 ### Hardware Engineer
 
-Coming soon!
+Hardware Engineer is probably the least-known role in quantitative trading (among students), and also tends to have fewer roles in the industry, but it is no less important (or lucrative) a career. Hardware Engineers are tasked with developing custom FPGAs and ASICs to fuel the low-latency race among the fastest market participants. This often involves processing market data, serializing and submitting orders, and very high-speed networking (10G, 25G, and beyond). Increasingly, some firms are seeking out hardware engineers with experience in machine learning acceleration, which may be an area of interest to current students. Hardware engineers need a thorough mastery of RTL development in a hardware description language (HDL), computer architecture, and FPGA/ASIC architecture. Depending on the role, other nice to have skills include experience with hardware verification, knowledge of other high-speed interconnects (e.g. PCIe), and even software engineering skills (typically in a low-level language like C).
+
+It is unusual to find a Hardware Engineering position that is not entirely in core development.
+
+Like software engineers and SREs, hardware engineers usually do not require a graduate degree, although graduate classes may provide an opportunity to study advanced topics not generally available to undergrads at many institutions (like high-speed networking or machine learning accelators).
+
+Hardware Engineer compensation is often on-par with or slightly higher than software engineering, with less variability. Because there are fewer roles for Hardware Engineers, a specialized skillset or depth of experience can command a significant premium over SWEs or hardware engineers in other industries.
 
 ## Majors
 
