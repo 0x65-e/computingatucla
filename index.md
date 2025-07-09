@@ -11,7 +11,9 @@ Welcome to Computing@UCLA, a website to help current and prospective UCLA studen
 * [Data Science](/guides/fields/datascience)
 * [Software Engineering](/guides/fields/software)
 * [Quantitative Trading](/guides/fields/trading)
-* Cybersecurity (coming soon!)
+* [Cybersecurity](/guides/fields/cybersecurity)
+* UI/UX Design (coming soon!)
+* Product Management (coming soon!)
 * Business (coming soon!)
 
 ## Major Guides
