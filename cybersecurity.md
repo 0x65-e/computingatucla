@@ -23,12 +23,12 @@ This guide is meant to be comprehensive and used as a reference, so please use t
 No, cybersecurity isn't just like you see in the movies, whether it's *The Matrix*, *Tron*, or 1983's classic *WarGames* (although I highly recommend that last one if you haven't seen it). It isn't all hackers typing green text on blinking terminals in dark rooms. The field of cybersecurity is more varied than you probably think!
 
 The kind of "hacking" you see in movies is typically called offensive security (or "[red teaming](https://en.wikipedia.org/wiki/Red_team)") in the cybersecurity world. It is one part of cybsecurity, but there's so much more:
-* **Network Security**: Securing networks; designing secure network architectures; firewalls, routers, VPNs
-* **Application Security**: Securing desktop, mobile, and web apps starting from development; implementing secure coding practices
-* **Security Operations**: Monitoring and detecting threats; responding to incidents (these are the "blue team" counterparts to the red team)
-* **Offensive Security**: Deliberately trying to find and exploit vulnerabilities through penetration testing, social engineering, or other methods
-* **Forensics**: Investigating the aftermath of security incidents to understand how they happened and who is responsible; reverse engineering malware
-* **Cryptography**: Developing and implementing secure communication through encryption; finding and exploiting weaknesses in encryption algorithms
+* **Network Security**: Securing networks and networking equipment; designing secure network architectures; developing, installing, and configuring firewalls, routers, and VPNs
+* **Application Security**: Securing desktop, mobile, and web apps starting from development; implementing secure coding practices; assessing the security of existing applications
+* **Security Operations**: Monitoring and detecting threats; responding to incidents (these are the "blue team" counterparts to the red team); improving security processes and monitoring
+* **Offensive Security**: Deliberately trying to find and exploit vulnerabilities through penetration testing, social engineering, or other methods; proactively identifying and reporting vulnerabilities
+* **Forensics**: Investigating the aftermath of security incidents to understand how they happened and who is responsible; capturing evidence of incidents for legal or compliance reasons; reverse engineering malware
+* **Cryptography**: Developing and implementing secure communication through encryption; finding and exploiting weaknesses in encryption algorithms; designing and evaluating new encryption algorithms
 
 ## Majors
 
